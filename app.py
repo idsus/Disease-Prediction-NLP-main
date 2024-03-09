@@ -35,7 +35,7 @@ def main():
     st.title("Disease Prediction")
 
     st.sidebar.markdown(
-        "The **PassiveAggressiveClassifier** is a popular algorithm for online learning tasks and is often used for binary text classification problems. It is a type of linear classifier, suitable for large-scale learning. The PassiveAggressiveClassifier model, is trained on the TF-IDF transformed training data."
+        "The **PassiveAggressiveClassifier** is a widely utilized algorithm in online learning scenarios, particularly favored for binary text classification challenges. This linear classifier is well-suited for handling extensive datasets. The model is trained on the TF-IDF transformed training data."
     )
     st.sidebar.markdown(
         "Term Frequency-Inverse Document Frequency (TF-IDF). **TfidfVectorizer** is used to convert the text data into numerical features."
