@@ -1,5 +1,3 @@
-Here's the corrected version of the documentation:
-
 # Disease Prediction using NLP
 
 Disease prediction based on symptoms provided in a single text input using Natural Language Processing (NLP).
